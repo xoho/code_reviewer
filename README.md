@@ -91,7 +91,7 @@ DEBUG=TRUE ./target/release/code_reviewer
 
 ## License
 
-[Your chosen license]
+MIT
 
 ## Troubleshooting
 
